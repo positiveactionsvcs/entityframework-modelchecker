@@ -1,0 +1,12 @@
+﻿.vs/
+bin/
+obj/
+TestResults/
+packages/
+*.user
+*.suo
+*.dbmdl
+*.jfm
+*.Publish.xml
+Thumbs.db
+.DS_Store
